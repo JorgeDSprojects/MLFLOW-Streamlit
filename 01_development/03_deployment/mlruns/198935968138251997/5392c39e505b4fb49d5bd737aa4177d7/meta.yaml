@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA/03_Proyectos/MLFLOW%2BStreamlit/01_development/mlruns/198935968138251997/5392c39e505b4fb49d5bd737aa4177d7/artifacts
+end_time: 1694031914881
+entry_point_name: ''
+experiment_id: '198935968138251997'
+lifecycle_stage: active
+run_id: 5392c39e505b4fb49d5bd737aa4177d7
+run_name: dashing-quail-621
+run_uuid: 5392c39e505b4fb49d5bd737aa4177d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694031913356
+status: 3
+tags: []
+user_id: Jorge MS
