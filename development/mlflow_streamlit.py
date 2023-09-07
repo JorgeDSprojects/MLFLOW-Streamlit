@@ -32,7 +32,7 @@ st.set_page_config(
     initial_sidebar_state="expanded") 
 
 # load feature extracted data
-df = pd.read_csv("../Data/Boston.csv")
+df = pd.read_csv("./Data/Boston.csv")
 
 # HELPER FUNCTIONS
 # Add the data preprocessor that you need
