@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA/03_Proyectos_Finalizados/MLFLOW%2BStreamlit/01_development/03_deployment/mlruns/685978163277583058/3c481874ccd043949bd3600882867ba2/artifacts
+end_time: 1694110654954
+entry_point_name: ''
+experiment_id: '685978163277583058'
+lifecycle_stage: active
+run_id: 3c481874ccd043949bd3600882867ba2
+run_name: chill-robin-746
+run_uuid: 3c481874ccd043949bd3600882867ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694110652965
+status: 3
+tags: []
+user_id: Jorge MS

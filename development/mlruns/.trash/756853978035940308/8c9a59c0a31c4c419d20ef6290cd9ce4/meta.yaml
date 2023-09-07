@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/DATA/03_Proyectos_Finalizados/MLFLOW%2BStreamlit/01_development/03_deployment/mlruns/756853978035940308/8c9a59c0a31c4c419d20ef6290cd9ce4/artifacts
+deleted_time: 1694110504135
+end_time: 1694110481087
+entry_point_name: ''
+experiment_id: '756853978035940308'
+lifecycle_stage: deleted
+run_id: 8c9a59c0a31c4c419d20ef6290cd9ce4
+run_name: awesome-smelt-316
+run_uuid: 8c9a59c0a31c4c419d20ef6290cd9ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694110479004
+status: 3
+tags: []
+user_id: Jorge MS

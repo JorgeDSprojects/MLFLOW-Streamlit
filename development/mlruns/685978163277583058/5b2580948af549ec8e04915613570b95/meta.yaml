@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA/03_Proyectos_Finalizados/MLFLOW%2BStreamlit/01_development/03_deployment/mlruns/685978163277583058/5b2580948af549ec8e04915613570b95/artifacts
+end_time: 1694110639355
+entry_point_name: ''
+experiment_id: '685978163277583058'
+lifecycle_stage: active
+run_id: 5b2580948af549ec8e04915613570b95
+run_name: puzzled-crane-119
+run_uuid: 5b2580948af549ec8e04915613570b95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694110637311
+status: 3
+tags: []
+user_id: Jorge MS

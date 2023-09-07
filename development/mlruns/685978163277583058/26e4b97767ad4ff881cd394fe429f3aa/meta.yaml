@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA/03_Proyectos_Finalizados/MLFLOW%2BStreamlit/01_development/03_deployment/mlruns/685978163277583058/26e4b97767ad4ff881cd394fe429f3aa/artifacts
+end_time: 1694110662622
+entry_point_name: ''
+experiment_id: '685978163277583058'
+lifecycle_stage: active
+run_id: 26e4b97767ad4ff881cd394fe429f3aa
+run_name: puzzled-bass-163
+run_uuid: 26e4b97767ad4ff881cd394fe429f3aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694110660604
+status: 3
+tags: []
+user_id: Jorge MS

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/DATA/03_Proyectos/MLFLOW%2BStreamlit/01_development/mlruns/198935968138251997/b7394bb758a84c88b1e0ba568104ded4/artifacts
+deleted_time: 1694110332732
+end_time: 1694110308096
+entry_point_name: ''
+experiment_id: '198935968138251997'
+lifecycle_stage: deleted
+run_id: b7394bb758a84c88b1e0ba568104ded4
+run_name: colorful-yak-542
+run_uuid: b7394bb758a84c88b1e0ba568104ded4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694110305138
+status: 3
+tags: []
+user_id: Jorge MS
